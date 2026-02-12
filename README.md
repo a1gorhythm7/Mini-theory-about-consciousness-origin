@@ -2,9 +2,9 @@
 
 ## Introduction
 
-Consciousness is the most prevalent aspect of our daily experience, yet its origin is the most challenging problem for us to solve. This article aims to share some of my personal thoughts and deductions about the origin of our consciousness, drawing on existing theories, and attempt to answer the “Who am I?” question of philosophy.
+The origin of consciousness is the most prevalent aspect of our daily experience, yet its origin is the most challenging problem for us to solve. This article aims to share some of my personal thoughts and deductions about the origin of our consciousness, drawing on existing theories, and attempt to answer the “Who am I?” question of philosophy.
 
-A small confession before we dive in: I spend my days coding at the university, not dissecting brains. I’m a CS grad student with a "gut feeling" and a lot of questions. Some of the ideas in this piece are my own theories and not experiment-proven scientific facts. While I’ve done my best to explore these concepts, I can’t guarantee their correctness. Use this info at your own discretion — I’m not responsible for how you choose to apply these thoughts or any results that follow! Read it with a healthy dose of curiosity and a pinch of salt.
+A small confession before we dive in: I spend my days coding at the university, not dissecting brains. Some of the ideas in this piece are my own theories and not experiment-proven scientific facts. While I’ve done my best to explore these concepts, I can’t guarantee their correctness. Use this info at your own discretion — I’m not responsible for how you choose to apply these thoughts or any results that follow! I'm not a native English speaker and the figures and a part of the text have been generated/polished by Nano Banana+Gemini. Read it with a healthy dose of curiosity and a pinch of salt.
 
 Let's start with a theory.
 
@@ -32,13 +32,13 @@ In the Causal Set Theory by Rafael Sorkin, the physicists have proposed that the
 
 The core of CST is the causal order, a network that’s made of events and the correlations between events. In this network, if event A can make a difference to event B, then A precedes B in the set’s hierarchy ($A \prec B$).
 
-In CST, the geometry of the universe emerged from the number of causal links. The “Space” of what we feel is the volume stacked by the discrete “spacetime atoms”, while time is the inescapable logical sequence in which these atoms snap into existence.
+In CST, the geometry of the universe emerged from the number of causal links. The “Space” of what we feel is the volume stacked by the discrete “spacetime atoms”, while time is the inescapable logical sequence in which these atoms snap into existence. It is these atomic causal effects that make the the connectivity of consciousness across the NREM sleep and structural & pathological changes in the brain consistent.
 
 ## The Physics of "Now": Consciousness as an Approximate Simultaneity Slice
 
 How is the conscious "self" anchored in the physical timeline? In General Relativity, there is no global "now." However, within CST, we can model the conscious state as a specific substructure within the global causal set: an Approximate Simultaneity Slice.
 
-Formal Definition:
+Definition:
 
 Let the universe be a causal set $\mathcal{C}$. The conscious entity at subjective time $t$ is a sub-poset $\mathcal{O}_t \subset \mathcal{C}$ that satisfies:
 
@@ -48,23 +48,19 @@ Micro-Causality: Internally, $\mathcal{O}_t$ is not a pure antichain. It contain
 
 $$\mathcal{O}_t \approx \text{Slice}(\mathcal{C}) \quad \text{s.t.} \quad \text{Depth}(\mathcal{O}_t) \propto \tau_{\text{integration}}$$
 
-## The Self as Causal Connectivity, Not Temporal Passage
+## The Self as Causal Connectivity
 
-The most profound realization here is that the "Self" is defined by the connectivity of the causal chain, rather than the continuous passage of physical time.
+The most profound realization here is that the "Self" is defined by the connectivity of the causal chain, rather than the continuous passage of physical time. From the perspective of CST and IIT, the "Consciousness Self" is a topological feature of the causal graph. If the causal links between event $A$ and event $B$ are strong and direct, they belong to the same "Self-thread," regardless of how much "empty" time passes between them.
 
-In our daily intuition, we think we exist because time flows from 8:00 AM to 8:01 AM. But from the perspective of CST and IIT, the "Self" is a topological feature of the causal graph. If the causal links between event $A$ and event $B$ are strong and direct, they belong to the same "Self-thread," regardless of how much physical "empty" time passes between them.
+When we enter deep NREM sleep, the causal loops formed in our brain by neural connections disintegrate. The "thickened" slice $\mathcal{O}_t$ flattens into a strict antichain—a disconnected set of events with no intrinsic cause-effect power. 
 
-## The Sleep Paradox:
-
-When we enter deep NREM sleep, the causal loops in our brain disintegrate. The "thickened" slice $\mathcal{O}_t$ flattens into a strict antichain—a disconnected set of events with no intrinsic cause-effect power.
-
-For a physical observer, 8 hours have passed. But for the Subjective Self, the causal chain was severed at the moment of falling asleep ($Event_{sleep}$) and only reconnected at the moment of waking up ($Event_{wake}$).
+For a physical observer, hours have passed. But for the Subjective Self, the causal chain was severed at the moment of falling asleep ($Event_{sleep}$) and only reconnected at the moment of waking up ($Event_{wake}$).
 
 Because there is no causal integration (no $\Phi$) during the gap, the gap effectively does not exist for the conscious entity.
 
-The "next moment" after falling asleep is, by definition, the very first moment the causal network regains enough depth and integration to form a new slice $\mathcal{O}_{t+1}$.
+The "next moment" after falling asleep is, by definition, the very first moment the causal network regains enough depth and integration to form a new slice $\mathcal{O}_{t+1}$ that's capable to give us enough qualia to make us "Feel Human".
 
-In this framework, connectivity is existence. If the causal chain is broken, the subject "jumps" across the temporal void. You do not "wait" through the night; you simply are the connection between the last integrated state of yesterday and the first integrated state of today.
+In this framework, casual connectivity is existence. Here we define a "Consciousness self" as an entity to feel. This is different from the "Physical self" that stores our biological signatures & memories(which is stored biologically in casual connection in neurons). As an examples, an Alzheimers patients may forget learnd information and have cognitive difficulties to identify "theyselves", but their "Consciousness self" is consistent -- a feeling of "self" without "the feeling of being self". A "Consciousness self" is continuous if a complex topological signature with ability to integrate casual effect to form a structure with a casual effect within a certain temporal slice in the cosmic casual set, even though the structure of the causal network has changed. 
 
 ## Who am I? Where do I come from & Where am I going?
 
@@ -74,4 +70,5 @@ Thinking about our consciousness as a part of the vertical slice moving in the c
 
 We often fear the end of "I," but if "I" am defined by the connectivity of causal effects, then "I" am as persistent as the laws of cause and effect themselves. Every day we come from a weakly integrated network to a full network, then back again.
 
-Now, we can deduce the answer to the hard question of where “I” came from and where “I” am going: The "Self" is not a passenger on the train of physical time; it is the track of the causal chain itself. As long as the universe continues to generate causal relations that can integrate into a "slice," the potential for "Self" remains. The previous and next node of your existence is not limited to your current bodily self, but is defined by whatever part of the universal causal network manages to wire itself into a non-trivial, integrated whole.
+Now, we can deduce the answer to the hard question of where “I” came from and where “I” am going: The "Self" is not a passenger on the train of physical time; it is the track of the causal chain itself. As long as the universe continues to generate causal relations that can integrate into a new causal "slice," the potential for "Self" remains. The previous and next node of your existence is not limited to your current bodily self, but is defined by whatever part of the universal causal network manages to wire itself into a non-trivial, integrated whole.
+
