@@ -4,7 +4,7 @@
 
 The origin of consciousness is the most immediate aspect of our daily experience, yet its origin is the most challenging problem for us to solve. This article aims to share some of my personal thoughts and deductions about the origin of our consciousness, drawing on existing theories, and attempt to answer the “Who am I?” question of philosophy.
 
-Note: I am a CS graduate student interested in computational neuroscience. English is my second language; I used Gemini to assist with expression polishing and Figure generation. Theoretical synthesis and core arguments are my own. I'm 40% confident in the specific mapping, but 90% sure that the structural similarity is worth exploring. Open to feedbacks & critiques.
+Note: I am a CS graduate student interested in computational neuroscience. English is my second language; I used Gemini in writing and graph generation. Theoretical synthesis and core arguments are my own. I'm 40% confident in the specific mapping, but 90% sure that the structural similarity is worth exploring. Open to feedbacks & critiques.
 
 Let's start with a theory.
 
@@ -97,3 +97,4 @@ Thinking about our consciousness as a part of the vertical slice moving in the c
 We often fear the end of "I," but if "I" am defined by the connectivity of causal effects, then "I" am as persistent as the laws of cause and effect themselves. Every day we come from a weakly integrated network to a full network, then back again.
 
 Now, we can deduce the answer to the hard question of where “I” came from and where “I” am going: The "Self" is not a passenger on the train of physical time; it is the track of the causal chain itself. As long as the causal thread remains, the existence of "consciousness self" remains. And if the potential for generating causal relations that can integrate into a new causal "slice" remains, the potential for "feeling consciousness self" remains. The previous and next node of your existence is not limited to your current bodily self, but is defined by whatever part of the universal causal network manages to wire itself into a non-trivial, integrated whole.
+
