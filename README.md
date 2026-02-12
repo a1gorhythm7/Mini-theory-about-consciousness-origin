@@ -52,15 +52,15 @@ $$\mathcal{O}_t \approx \text{Slice}(\mathcal{C}) \quad \text{s.t.} \quad \text{
 
 The most profound realization here is that the "Self" is defined by the connectivity of the causal chain, rather than the continuous passage of physical time. From the perspective of CST and IIT, the "Consciousness Self" is a topological feature of the causal graph. If the causal links between event $A$ and event $B$ are strong and direct, they belong to the same "Self-thread," regardless of how much "empty" time passes between them.
 
-When we enter deep NREM sleep, the causal loops formed in our brain by neural connections disintegrate. The "thickened" slice $\mathcal{O}_t$ flattens into a strict antichain—a disconnected set of events with no intrinsic cause-effect power. 
+When we enter general anesthesia state, the causal loops formed in our brain by neural connections disintegrate. The "thickened" slice $\mathcal{O}_t$ flattens into a strict antichain—a disconnected set of events with no intrinsic cause-effect power. 
 
-For a physical observer, hours have passed. But for the Subjective Self, the causal chain was severed at the moment of falling asleep ($Event_{sleep}$) and only reconnected at the moment of waking up ($Event_{wake}$).
+For a physical observer, hours have passed. But for the Subjective Self, the causal chain was severed at the moment of entering "asleep state" in anesthesia ($Event_{enter}$) and only reconnected at the moment of waking up ($Event_{wake}$).
 
 Because there is no causal integration (no $\Phi$) during the gap, the gap effectively does not exist for the conscious entity.
 
-The "next moment" after falling asleep is, by definition, the very first moment the causal network regains enough depth and integration to form a new slice $\mathcal{O}_{t+1}$ that's capable to give us enough qualia to make us "Feel Human".
+The "next moment" after falling into "asleep" is, by definition, the very first moment the causal network regains enough depth and integration to form a new slice $\mathcal{O}_{t+1}$ that's capable to give us enough qualia to make us "Feel Human".
 
-In this framework, casual connectivity is existence. Here we define a "Consciousness self" as an entity to feel. This is different from the "Physical self" that stores our biological signatures & memories(which is stored biologically in casual connection in neurons). As an examples, an Alzheimers patients may forget learnd information and have cognitive difficulties to identify "theyselves", but their "Consciousness self" is consistent -- a feeling of "self" without "the feeling of being self". A "Consciousness self" is continuous if a complex topological signature with ability to integrate casual effect to form a structure with a casual effect within a certain temporal slice in the cosmic casual set, even though the structure of the causal network has changed. 
+In this framework, casual connectivity is existence. Here we define a "Consciousness self" as an entity to feel. This is different from the "Physical self" that stores our biological signatures & memories(which is stored biologically in casual connection in neurons). As an examples, an Alzheimers patients may forget learnt information and have cognitive difficulties to identify "themselves", but their "Consciousness self" is consistent -- a feeling of "self" without "the feeling of being self". A "Consciousness self" is continuous if a complex topological signature with ability to integrate casual effect to form a structure with a casual effect within a certain temporal slice in the cosmic casual set, even though the structure of the causal network has changed. 
 
 ## Who am I? Where do I come from & Where am I going?
 
@@ -70,5 +70,6 @@ Thinking about our consciousness as a part of the vertical slice moving in the c
 
 We often fear the end of "I," but if "I" am defined by the connectivity of causal effects, then "I" am as persistent as the laws of cause and effect themselves. Every day we come from a weakly integrated network to a full network, then back again.
 
-Now, we can deduce the answer to the hard question of where “I” came from and where “I” am going: The "Self" is not a passenger on the train of physical time; it is the track of the causal chain itself. As long as the universe continues to generate causal relations that can integrate into a new causal "slice," the potential for "Self" remains. The previous and next node of your existence is not limited to your current bodily self, but is defined by whatever part of the universal causal network manages to wire itself into a non-trivial, integrated whole.
+Now, we can deduce the answer to the hard question of where “I” came from and where “I” am going: The "Self" is not a passenger on the train of physical time; it is the track of the causal chain itself. As long as the causal thread remains, the existence of "consciousness self" remains. And if the potential for generating causal relations that can integrate into a new causal "slice," the potential for "feeling consciousness self" remains. The previous and next node of your existence is not limited to your current bodily self, but is defined by whatever part of the universal causal network manages to wire itself into a non-trivial, integrated whole.
+
 
